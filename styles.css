@@ -1,0 +1,36 @@
+.first-line{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+    border: 2px solid green;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.main-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.last-para{
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+.last-para{
+    border: 2px solid green;
+    padding: 20px;
+}
+.anchor{
+    border: 2px solid red;
+    /* padding: 20px; */
+    margin-top: 50px;
+    /* display: block; */
+}
+
+#lorem{
+    color:red;
+}
+
